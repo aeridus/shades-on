@@ -1,0 +1,8 @@
+.puzzlegrid {
+  display: inline-block;
+  cursor: pointer;
+  border: 5px;
+  border-radius: 0em;
+  border-style: solid;
+  border-color: #204080;
+}

@@ -1,0 +1,29 @@
+.puzzlebutton {
+  display: inline-block;
+  cursor: pointer;
+  border: 5px;
+  border-radius: 0em;
+  border-style: solid;
+  border-color: #204080;
+}
+.puzzlebutton--OFF {
+  background-color: #604080;
+}
+.puzzlebutton--ON {
+  background-color: #20c040;
+}
+.puzzlebutton--DELUXE {
+  background-color: #e02040;
+}
+.puzzlebutton--small {
+  height: 100px;
+  width: 100px;
+}
+.puzzlebutton--medium {
+  height: 150px;
+  width: 150px;
+}
+.puzzlebutton--large {
+  height: 200px;
+  width: 200px;
+}
